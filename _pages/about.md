@@ -74,3 +74,4 @@ Tianqi Zhong$^\*$, **Zhaoyi Li**$^\*$, Quan Wang, Linqi Song, Ying Wei, Defu Lia
 # 💬 Invited Talks
 
 # 💻 Internships
+- *2021.05 - 2021.09*, Summer Research Internship Programm, Department of Computer Science, Hong Kong University. 
