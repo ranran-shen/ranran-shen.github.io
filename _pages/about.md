@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi:wave:, I am Zhaoyi Li, a computer science PhD student under the colloration programm of [University of Science and Technology of China](https://en.ustc.edu.cn/) (School of Computer Science and Technology, adviced by Prof.[Defu Lian](https://scholar.google.com.hk/citations?user=QW0ad4sAAAAJ&hl=en)) and [City University of Hong Kong](https://www.cityu.edu.hk/) (Department of Computer Science, co-adviced by Prof.[Ying Wei](https://wei-ying.net/) and Prof.[Linqi Song](https://sites.google.com/site/aisquaredlab/about-us/linqi)).
+Hi:wave:, I am Zhaoyi Li, a computer science PhD student under the collaboration programm of [University of Science and Technology of China](https://en.ustc.edu.cn/) (School of Computer Science and Technology, adviced by Prof.[Defu Lian](https://scholar.google.com.hk/citations?user=QW0ad4sAAAAJ&hl=en)) and [City University of Hong Kong](https://www.cityu.edu.hk/) (Department of Computer Science, co-adviced by Prof.[Ying Wei](https://wei-ying.net/) and Prof.[Linqi Song](https://sites.google.com/site/aisquaredlab/about-us/linqi)).
 Previously, I got my Bachelor degree in Computer Science and Technology from University of Science and Technology of China in 2022.
 
-My research interest includes machine learning and natural language processing. Specifically, I work on making human beings and neural network systems better understand each other. I currently focus on investigating the compositionality of language models from the perspective of generalization, reasoning pattern and implicit structure.
+My research interest includes machine learning and natural language processing. Specifically, I work on making human beings and neural network systems better understand each other (i.e., generalization and interpretability). I currently focus on investigating the compositionality of language models from the perspectives of generalization, reasoning pattern, implicit structure and so on.
 
 
 # 🔥 News
@@ -70,8 +70,6 @@ Tianqi Zhong$^\*$, **Zhaoyi Li**$^\*$, Quan Wang, Linqi Song, Ying Wei, Defu Lia
 - *2023.09 - now*, PhD student, Department of Computer Science, City University of Hong Kong. 
 - *2022.09 - now*, PhD student, School of Computer Science and Technology, University of Science and Technology of China. 
 - *2018.09 - 2022.07*, Undergraduate, School of Computer Science and Technology, University of Science and Technology of China. 
-
-# 💬 Invited Talks
 
 # 💻 Internships
 - *2021.05 - 2021.09*, Summer Research Internship Programm, Department of Computer Science, Hong Kong University. 
