@@ -28,13 +28,13 @@ My research interest includes machine learning and natural language processing. 
 - *2023.05*: &nbsp;🎉🎉 One paper was accepted by ACL'2023 (main conference). 
 
 # 📝 Publications and Preprints 
-(<ins>  </ins> indicates the co-first authorship; $\*$ indicates the corresponding authors)
+($\*$ indicates the co-first authorship)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Findings</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Understanding and Patching Compositional Reasoning in LLMs](https://arxiv.org/abs/2402.14328)
 
-**Zhaoyi Li**, Gangwei Jiang, Hong Xie, Linqi Song, Defu Lian$^\*$ and Ying Wei$^\*$
+**Zhaoyi Li**, Gangwei Jiang, Hong Xie, Linqi Song, Defu Lian and Ying Wei
 
 [**Code**](https://github.com/Zhaoyi-Li21/creme)
 - We interpret the internal mechanism of compositional step-by-step reasoning on multi-hop factual knowledge inside large language models and propose a light-weight method based on model editing to patch their compositional reasoning errors.
@@ -45,7 +45,7 @@ My research interest includes machine learning and natural language processing. 
 
 [Benchmarking and Improving Compositional Generalization of Multi-aspect Controllable Text Generation](https://arxiv.org/pdf/2404.04232)
 
-<ins>Tianqi Zhong</ins>, <ins>**Zhaoyi Li**</ins>, Quan Wang, Linqi Song, Ying Wei, Defu Lian and Zhendong Mao$^\*$
+Tianqi Zhong$^\*$, **Zhaoyi Li**$^\*$, Quan Wang, Linqi Song, Ying Wei, Defu Lian and Zhendong Mao$^\*$
 
 [**Code**](https://github.com/tqzhong/CG4MCTG)
 - We propose CompMCTG, systematically unveiling the shortcoming of current multi-aspect controllable text generation methods on compositional generalization. Besides, we propose MetaMCTG, a meta-learning based training framework to improve the compositional generalization performance of current methods.
