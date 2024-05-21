@@ -24,7 +24,7 @@ author:
   name             : "Zhaoyi Li"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "PhD student in Computer Science"
-  location         : "Hefei, Mainland China; Hong Kong SAR, China"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/Zhaoyi-Li21"
   google_plus      :
   keybase          :
   instagram        :
