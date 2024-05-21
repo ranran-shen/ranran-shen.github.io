@@ -20,7 +20,7 @@ redirect_from:
 Hi:wave:, I am Zhaoyi Li, a computer science PhD student under the collaboration programm of [University of Science and Technology of China](https://en.ustc.edu.cn/) (School of Computer Science and Technology, adviced by Prof.[Defu Lian](https://scholar.google.com.hk/citations?user=QW0ad4sAAAAJ&hl=en)) and [City University of Hong Kong](https://www.cityu.edu.hk/) (Department of Computer Science, co-adviced by Prof.[Ying Wei](https://wei-ying.net/) and Prof.[Linqi Song](https://sites.google.com/site/aisquaredlab/about-us/linqi)).
 Previously, I got my Bachelor degree in Computer Science and Technology from University of Science and Technology of China in 2022.
 
-My research interest includes machine learning and natural language processing. Specifically, I work on making human beings and neural network systems better understand each other (i.e., generalization and interpretability). I currently focus on investigating the compositionality of language models from the perspectives of generalization, reasoning pattern, implicit structure and so on.
+My research interest includes machine learning and natural language processing. Specifically, I work on making human beings and neural network systems better understand each other (i.e., generalization and interpretability). I currently focus on investigating the compositionality of language models from the perspectives of generalization, reasoning pattern, implicit structure and so on. I would love to discuss on related topics should anyone is interested (my email: lizhaoyi777+AT+mail+dot+ustc+dot+edu+dot+cn).
 
 
 # 🔥 News
