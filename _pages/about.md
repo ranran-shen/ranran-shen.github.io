@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi:wave:, I am Zhaoyi Li, a computer science PhD student under the colloration programm of [University of Science and Technology of China](https://en.ustc.edu.cn/) (School of Computer Science and Technology, adviced by Prof.[Defu Lian](https://scholar.google.com.hk/citations?user=QW0ad4sAAAAJ&hl=en)) and [City University of Hong Kong](https://www.cityu.edu.hk/) (Department of Computer Science, adviced by Prof.[Ying Wei](https://wei-ying.net/) and Prof.[Linqi Song](https://sites.google.com/site/aisquaredlab/about-us/linqi)).
+Hi:wave:, I am Zhaoyi Li, a computer science PhD student under the colloration programm of [University of Science and Technology of China](https://en.ustc.edu.cn/) (School of Computer Science and Technology, adviced by Prof.[Defu Lian](https://scholar.google.com.hk/citations?user=QW0ad4sAAAAJ&hl=en)) and [City University of Hong Kong](https://www.cityu.edu.hk/) (Department of Computer Science, co-adviced by Prof.[Ying Wei](https://wei-ying.net/) and Prof.[Linqi Song](https://sites.google.com/site/aisquaredlab/about-us/linqi)).
 Previously, I got my Bachelor degree in Computer Science and Technology from University of Science and Technology of China in 2022.
 
-My research interest includes machine learning and natural language processing. I currently focus on investigating the compositionality of language models from the perspective of generalization, reasoning pattern and implicit structure.
+My research interest includes machine learning and natural language processing. Specifically, I work on making human beings and neural network systems better understand each other. I currently focus on investigating the compositionality of language models from the perspective of generalization, reasoning pattern and implicit structure.
 
 
 # 🔥 News
@@ -28,7 +28,7 @@ My research interest includes machine learning and natural language processing. 
 - *2023.05*: &nbsp;🎉🎉 One paper was accepted by ACL'2023 (main conference). 
 
 # 📝 Publications and Preprints 
-($__$ indicates the co-first authorship; $\*$ indicates the corresponding authors)
+(<ins>  </ins> indicates the co-first authorship; $\*$ indicates the corresponding authors)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Findings</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -64,7 +64,7 @@ My research interest includes machine learning and natural language processing. 
 </div>
 
 # 🎖 Honors and Awards
-- *2022.06* Honored as *Outstanding Bachelor Graduate of USTC*. 
+- *2022.06* Honored as *The Outstanding Bachelor Graduate of USTC*. 
 
 # 📖 Educations
 - *2023.09 - now*, PhD student, Department of Computer Science, City University of Hong Kong. 
