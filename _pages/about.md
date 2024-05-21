@@ -45,7 +45,7 @@ My research interest includes machine learning and natural language processing. 
 
 [Benchmarking and Improving Compositional Generalization of Multi-aspect Controllable Text Generation](https://arxiv.org/pdf/2404.04232)
 
-Tianqi Zhong$^\*$, **Zhaoyi Li**$^\*$, Quan Wang, Linqi Song, Ying Wei, Defu Lian and Zhendong Mao$^\*$
+Tianqi Zhong$^\*$, **Zhaoyi Li**$^\*$, Quan Wang, Linqi Song, Ying Wei, Defu Lian and Zhendong Mao
 
 [**Code**](https://github.com/tqzhong/CG4MCTG)
 - We propose CompMCTG, systematically unveiling the shortcoming of current multi-aspect controllable text generation methods on compositional generalization. Besides, we propose MetaMCTG, a meta-learning based training framework to improve the compositional generalization performance of current methods.
@@ -56,10 +56,10 @@ Tianqi Zhong$^\*$, **Zhaoyi Li**$^\*$, Quan Wang, Linqi Song, Ying Wei, Defu Lia
 
 [Learning to Substitute Spans towards Improving Compositional Generalization](https://aclanthology.org/2023.acl-long.157/)
 
-**Zhaoyi Li**, Ying Wei$^\*$ and Defu Lian$^\*$
+**Zhaoyi Li**, Ying Wei and Defu Lian
 
 [**Code**](https://github.com/Zhaoyi-Li21/Compgen_l2s2)
-- We propose L2S2, a learning-based text data augmentation scheme to improve the compositional generalization performance of neural sequence models.
+- We propose L2S2, a adversarial learning based text data augmentation scheme to improve the compositional generalization performance of neural sequence models (including LSTMs, Transformers and Pre-trained LMs). 
 </div>
 </div>
 
