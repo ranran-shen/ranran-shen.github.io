@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhaoyi Li"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Make change happen."
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Zhaoyi Li"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "PhD student in Computer Science"
-  location         : "Hefei, China"
+  location         : "Hefei, Mainland China; Hong Kong SAR, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
