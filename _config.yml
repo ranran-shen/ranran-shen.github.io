@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhaoyi Li"
-  avatar           : "zhaoyili.png"
+  avatar           : "images/zhaoyili.png"
   bio              : "PhD student in Computer Science"
   location         : 
   employer         :
