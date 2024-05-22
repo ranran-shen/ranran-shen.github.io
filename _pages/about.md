@@ -37,7 +37,7 @@ My research interest includes machine learning and natural language processing. 
 
 **Zhaoyi Li**, Gangwei Jiang, Hong Xie, Linqi Song, Defu Lian and Ying Wei
 
-[**Code**](https://github.com/Zhaoyi-Li21/creme)
+[**Code**](https://github.com/Zhaoyi-Li21/creme) [**Blog(in Chinese)**](https://zhuanlan.zhihu.com/p/684626522)
 - We interpret the internal mechanism of compositional step-by-step reasoning on multi-hop factual knowledge inside large language models and propose a light-weight method based on model editing to patch their compositional reasoning errors.
 </div>
 </div>
@@ -66,7 +66,10 @@ Tianqi Zhong$^\*$, **Zhaoyi Li**$^\*$, Quan Wang, Linqi Song, Ying Wei, Defu Lia
 
 # 🎖 Honors and Awards
 - *2022.06* Honored as *The Outstanding Bachelor Graduate of USTC*. 
-
+- *2022.04* *[YuanQing](https://en.wikipedia.org/wiki/Yang_Yuanqing)* (CEO of [Lenovo](https://www.lenovo.com/ch/en/) Co.) Research Student Scholarship. 
+- *2017.10* First prize, National (Senior) High School Mathematical Competition of China
+- *2014.5* First prize, National (Junior) High School Mathematical Competition of China
+   
 # 📖 Educations
 - *2023.09 - now*, PhD student, Department of Computer Science, City University of Hong Kong. 
 - *2022.09 - now*, PhD student, School of Computer Science and Technology, University of Science and Technology of China. 
