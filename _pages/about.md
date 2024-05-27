@@ -38,7 +38,7 @@ Understanding and Patching Compositional Reasoning in LLMs (**ACL'2024 Findings*
 
 **Zhaoyi Li**, Gangwei Jiang, Hong Xie, Linqi Song, Defu Lian and Ying Wei
 
-[Paper](https://arxiv.org/abs/2402.14328) [**Code**](https://github.com/Zhaoyi-Li21/creme) [**Blog(in Chinese)**](https://zhuanlan.zhihu.com/p/684626522)
+[**Paper**](https://arxiv.org/abs/2402.14328) [**Code**](https://github.com/Zhaoyi-Li21/creme) [**Blog(in Chinese)**](https://zhuanlan.zhihu.com/p/684626522)
 - We interpret the internal mechanism of compositional step-by-step reasoning on multi-hop factual knowledge inside large language models and propose a light-weight method based on model editing to patch their compositional reasoning errors.
 </div>
 </div>
