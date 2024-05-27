@@ -34,7 +34,7 @@ My research interest includes machine learning and natural language processing. 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Findings</div><img src='images/acl2024b.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Understanding and Patching Compositional Reasoning in LLMs (**ACL'2024 Findings**)
+<ins>Understanding and Patching Compositional Reasoning in LLMs</ins> (**ACL'2024 Findings**)
 
 **Zhaoyi Li**, Gangwei Jiang, Hong Xie, Linqi Song, Defu Lian and Ying Wei
 
@@ -46,7 +46,7 @@ Understanding and Patching Compositional Reasoning in LLMs (**ACL'2024 Findings*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/acl2024a.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Benchmarking and Improving Compositional Generalization of Multi-aspect Controllable Text Generation (**ACL'2024**)
+<ins>Benchmarking and Improving Compositional Generalization of Multi-aspect Controllable Text Generation</ins> (**ACL'2024**)
 
 Tianqi Zhong$^\*$, **Zhaoyi Li**$^\*$, Quan Wang, Linqi Song, Ying Wei, Defu Lian and Zhendong Mao
 
@@ -59,7 +59,7 @@ Tianqi Zhong$^\*$, **Zhaoyi Li**$^\*$, Quan Wang, Linqi Song, Ying Wei, Defu Lia
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023 Oral</div><img src='images/acl2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Learning to Substitute Spans towards Improving Compositional Generalization (**ACL'2023 Oral**)
+<ins>Learning to Substitute Spans towards Improving Compositional Generalization</ins> (**ACL'2023 Oral**)
 
 **Zhaoyi Li**, Ying Wei and Defu Lian
 
