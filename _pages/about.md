@@ -31,7 +31,7 @@ My research interest includes machine learning and natural language processing. 
 # 📝 Publications and Preprints 
 ($\*$ indicates the co-first authorship)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Findings</div><img src='images/acl2024b.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Findings</div><img src='images/acl2024_new.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 <ins>Understanding and Patching Compositional Reasoning in LLMs</ins> (**ACL'2024 Findings**)
