@@ -69,8 +69,9 @@ Tianqi Zhong$^\*$, **Zhaoyi Li**$^\*$, Quan Wang, Linqi Song, Ying Wei, Defu Lia
 </div>
 
 # 🎖 Honors and Awards
-- *2022.06* Honored as *The Outstanding Bachelor Graduate of USTC*. 
-- *2022.04* *[YuanQing](https://en.wikipedia.org/wiki/Yang_Yuanqing)* (CEO of [Lenovo](https://www.lenovo.com/ch/en/) Co.) Research Student Scholarship. 
+- *2022.06* Honored as *The Outstanding Bachelor Graduate of USTC*.
+- *2022.04* *[YuanQing](https://en.wikipedia.org/wiki/Yang_Yuanqing)* (CEO of [Lenovo](https://www.lenovo.com/ch/en/) Co.) Research Student Scholarship.
+- *2019 ～ 2022* First prize, *USTC Excellent Undergraduate Scholarship*.
 - *2017.10* First prize, National (Senior) High School Mathematical Competition of China
 - *2014.5* First prize, National (Junior) High School Mathematical Competition of China
    
