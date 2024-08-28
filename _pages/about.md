@@ -21,7 +21,7 @@ Hi:wave:, I am Zhaoyi Li, a computer science PhD student under the collaboration
 The most fortunate thing for my early PhD life is that I met up with my brilliant professors!
 Previously, I got my Bachelor degree in Computer Science and Technology from University of Science and Technology of China in 2022, under the supervision of Prof.[Cheng Li](http://staff.ustc.edu.cn/~chengli7/).
 
-My research interest includes machine learning and natural language processing. Specifically, I work on making human beings and neural network systems better understand each other (i.e., generalization and interpretability). I currently focus on investigating the compositionality of language models from the perspectives of generalization, reasoning pattern, implicit structure and so on. I would love to discuss on related topics should anyone is interested (always feel free to drop me an email: lizhaoyi777\[AT\]mail.ustc.edu.cn)!
+My research interest includes machine learning and natural language processing. Specifically, I work on making human beings and neural network systems better understand each other (i.e., generalization and interpretability). I currently focus on investigating the compositionality of language models from the perspectives of generalization, reasoning pattern, implicit structure and so on, which is about the mechanism that language models decompose complex questions and concepts into primitive ones and compose them step-by-step to understand the complex semantics. Recently the emerging term ["System-1 thinking v.s. System-1 thinking"](https://thedecisionlab.com/reference-guide/philosophy/system-1-and-system-2-thinking) also closely relates to my projects. I would love to discuss on related topics should anyone is interested (always feel free to drop me an email: lizhaoyi777\[AT\]mail.ustc.edu.cn)!
 
 
 # 🔥 News
@@ -84,5 +84,10 @@ Tianqi Zhong$^\*$, **Zhaoyi Li**$^\*$, Quan Wang, Linqi Song, Ying Wei, Defu Lia
 - *2021.05 - 2021.09*, Summer Research Internship Programm, Department of Computer Science, Hong Kong University. 
 
 # 🎖 Services
-- Invited Reviewer: EMNLP'2023, NeurIPS'2024.
-- Teaching Assistant: Data Structure@USTC'2021, Data Engineering@CityU'2023, Introduction to Computer Programming@CityU'2024.
+- Invited Reviewer:
+  - EMNLP'2023
+  - NeurIPS'2024
+- Teaching Assistant:
+  - USTC, [01112701 Data Structures and Algorithms](https://icourse.club/course/20657/), 2021 Fall
+  - CityU, [CS5481 Data Engineering](https://www.cityu.edu.hk/catalogue/pg/202324/course/CS5481.htm), 2023 Fall
+  - CityU, [CS1302 Introduction to Computer Programming](https://www.cityu.edu.hk/catalogue/ug/202021/course/CS1302.htm), 2024 Spring
