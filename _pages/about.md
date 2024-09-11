@@ -69,6 +69,7 @@ Tianqi Zhong$^\*$, **Zhaoyi Li**$^\*$, Quan Wang, Linqi Song, Ying Wei, Defu Lia
 </div>
 
 # 🎖 Honors and Awards
+- *2022 ～ 2023* First prize, *USTC Graduate Student Academic Scholarship*.
 - *2022.06* Honored as *The Outstanding Bachelor Graduate of USTC*.
 - *2022.04* *[YuanQing](https://en.wikipedia.org/wiki/Yang_Yuanqing)* (CEO of [Lenovo](https://www.lenovo.com/ch/en/) Co.) Research Student Scholarship.
 - *2019 ～ 2022* First prize, *USTC Excellent Undergraduate Scholarship*.
@@ -85,8 +86,7 @@ Tianqi Zhong$^\*$, **Zhaoyi Li**$^\*$, Quan Wang, Linqi Song, Ying Wei, Defu Lia
 
 # 🎖 Services
 - Invited Reviewer:
-  - EMNLP'2023
-  - NeurIPS'2024
+  - EMNLP'2023, NeurIPS'2024, ICLR'2025.
 - Teaching Assistant:
   - USTC, [01112701 Data Structures and Algorithms](https://icourse.club/course/20657/), 2021 Fall
   - CityU, [CS5481 Data Engineering](https://www.cityu.edu.hk/catalogue/pg/202324/course/CS5481.htm), 2023 Fall
