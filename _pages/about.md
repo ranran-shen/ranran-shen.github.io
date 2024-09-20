@@ -25,11 +25,23 @@ My research interest includes machine learning and natural language processing. 
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 One paper was accepted by EMNLP'2024 (main conference). 
 - *2024.05*: &nbsp;🎉🎉 Two papers was accepted by ACL'2024 (1$\times$main conference and 1$\times$findings). 
 - *2023.05*: &nbsp;🎉🎉 One paper was accepted by ACL'2023 (main conference). 
 
 # 📝 Publications 
 ($\*$ indicates the co-first authorship)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/emnlp2024_mt.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+<ins>Mitigating the Language Mismatch and Repetition Issues in LLM-based Machine Translation via Model Editing</ins> (**EMNLP'2024**)
+
+Weichuan Wang$^\*$, **Zhaoyi Li**$^\*$, Defu Lian, Chen Ma, Linqi Song and Ying Wei
+
+[**Paper**] [**Code**] 
+- We investigate two common types of issues, Language Mismatch and Repetition, in LLM-based machine translation systems. We mitigate such issues to some extent by the refined model editing methods without hurting the general abilities of LLMs.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Findings</div><img src='images/acl2024_new.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
