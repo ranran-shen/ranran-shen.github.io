@@ -25,9 +25,7 @@ My research interest includes machine learning and natural language processing. 
 
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 One paper was accepted by EMNLP'2024 (main conference). 
-- *2024.05*: &nbsp;🎉🎉 Two papers was accepted by ACL'2024 (1$\times$main conference and 1$\times$findings). 
-- *2023.05*: &nbsp;🎉🎉 One paper was accepted by ACL'2023 (main conference). 
+- *2023.09*: &nbsp;🎉🎉 One paper was accepted by NeurIPS'2023 (main conference).
 
 # 📝 Publications 
 ($\*$ indicates the co-first authorship)
