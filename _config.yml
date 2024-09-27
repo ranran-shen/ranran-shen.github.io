@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ranran Shen"
-description              : "Make change happen."
+description              : "Win or learn."
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ranran Shen"
   avatar           : "images/zhaoyili.png"
-  bio              : "master student in Computer Science"
+  bio              : "Master in Computer Science"
   location         : 
   employer         :
   pubmed           : 
