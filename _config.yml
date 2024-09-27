@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhaoyi Li"
+  name             : "Ranran Shen"
   avatar           : "images/zhaoyili.png"
-  bio              : "PhD student in Computer Science"
+  bio              : "master student in Computer Science"
   location         : 
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "lizhaoyi777@mail.ustc.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=BvA-wRQAAAAJ"
+  email            : "ranranshen@mail.ustc.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Zhaoyi-Li21"
+  github           : "ranran-shen"
   google_plus      :
   keybase          :
   instagram        :
