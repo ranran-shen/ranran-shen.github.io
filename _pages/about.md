@@ -88,18 +88,13 @@ Tianqi Zhong$^\*$, **Zhaoyi Li**$^\*$, Quan Wang, Linqi Song, Ying Wei, Defu Lia
 - *2017.10* First prize, National (Senior) High School Mathematical Competition of China
 - *2014.5* First prize, National (Junior) High School Mathematical Competition of China
    
-# 📖 Educations
-- *2023.09 - now*, PhD student, Department of Computer Science, City University of Hong Kong. 
-- *2022.09 - now*, PhD student, School of Computer Science and Technology, University of Science and Technology of China. 
-- *2018.09 - 2022.07*, Undergraduate, School of Computer Science and Technology, University of Science and Technology of China. 
+# 📖 Educations 
+- *2022.09 - now*, Master student, School of Computer Science and Technology, University of Science and Technology of China. 
+- *2018.09 - 2022.06*, Undergraduate, School of Computer Science and Engineering, Central South University. 
 
 # 💻 Internships
-- *2021.05 - 2021.09*, Summer Research Internship Programm, Department of Computer Science, Hong Kong University. 
+- *2024.04 - 2024.08*, Tencent, Shenzhen.
 
 # 🎖 Services
-- Invited Reviewer:
-  - EMNLP'2023, NeurIPS'2024, ICLR'2025.
 - Teaching Assistant:
-  - USTC, [01112701 Data Structures and Algorithms](https://icourse.club/course/20657/), 2021 Fall
-  - CityU, [CS5481 Data Engineering](https://www.cityu.edu.hk/catalogue/pg/202324/course/CS5481.htm), 2023 Fall
-  - CityU, [CS1302 Introduction to Computer Programming](https://www.cityu.edu.hk/catalogue/ug/202021/course/CS1302.htm), 2024 Spring
+  - USTC, [COMP6001P03 Algorithm Design and Analysis], 2023 Fall
