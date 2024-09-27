@@ -97,4 +97,4 @@ Tianqi Zhong$^\*$, **Zhaoyi Li**$^\*$, Quan Wang, Linqi Song, Ying Wei, Defu Lia
 
 # 🎖 Services
 - Teaching Assistant:
-  - USTC, Algorithm Design and Analysis(COMP6001P03), 2023 Fall
+  - USTC, Algorithm Design and Analysis [COMP6001P03], 2023 Fall
