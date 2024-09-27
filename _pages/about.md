@@ -81,12 +81,12 @@ Tianqi Zhong$^\*$, **Zhaoyi Li**$^\*$, Quan Wang, Linqi Song, Ying Wei, Defu Lia
 </div>
 
 # 🎖 Honors and Awards
-- *2022 ～ 2023* First prize, *USTC Graduate Student Academic Scholarship*.
-- *2022.06* Honored as *The Outstanding Bachelor Graduate of USTC*.
-- *2022.04* *[YuanQing](https://en.wikipedia.org/wiki/Yang_Yuanqing)* (CEO of [Lenovo](https://www.lenovo.com/ch/en/) Co.) Research Student Scholarship.
-- *2019 ～ 2022* First prize, *USTC Excellent Undergraduate Scholarship*.
-- *2017.10* First prize, National (Senior) High School Mathematical Competition of China
-- *2014.5* First prize, National (Junior) High School Mathematical Competition of China
+- *2022, 2023* First prize, *USTC Graduate Student Academic Scholarship*.
+- *2023.10* National Scholarship.
+- *2022.06* Honored as *The Outstanding Bachelor Graduate of CSU*
+- *2022.06* Honored as *The Outstanding Bachelor Graduate of Hunan province*.
+- *2021.10* National Scholarship (Undergraduate).
+- *2019, 2020, 2021* Honored as *The Outstanding Student of School of Computer Science and Engineering, CSU*.
    
 # 📖 Educations 
 - *2022.09 - now*, Master student, School of Computer Science and Technology, University of Science and Technology of China. 
@@ -97,4 +97,4 @@ Tianqi Zhong$^\*$, **Zhaoyi Li**$^\*$, Quan Wang, Linqi Song, Ying Wei, Defu Lia
 
 # 🎖 Services
 - Teaching Assistant:
-  - USTC, [COMP6001P03 Algorithm Design and Analysis], 2023 Fall
+  - USTC, COMP6001P03 Algorithm Design and Analysis, 2023 Fall
