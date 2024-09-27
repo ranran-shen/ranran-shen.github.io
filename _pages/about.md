@@ -90,7 +90,7 @@ Tianqi Zhong$^\*$, **Zhaoyi Li**$^\*$, Quan Wang, Linqi Song, Ying Wei, Defu Lia
    
 # 📖 Educations 
 - *2022.09 - now*, Master, School of Computer Science and Technology, University of Science and Technology of China, Hefei. 
-- *2018.09 - 2022.06*, Undergraduate (majored in Computer Science and Technology), School of Computer Science and Engineering, Central South University, Changsha. 
+- *2018.09 - 2022.06*, Undergraduate (majored in CS), School of Computer Science and Engineering, Central South University, Changsha. 
 
 # 💻 Internships
 - *2024.04 - 2024.08*, Tencent, Shenzhen.
