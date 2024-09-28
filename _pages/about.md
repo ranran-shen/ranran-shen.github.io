@@ -32,11 +32,11 @@ My research interest includes machine learning and natural language processing. 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Findings</div><img src='images/acl2024_new.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-<ins>A sublinear-time spectral clustering oracle with improved preprocessing time</ins> (**NeurIPS'2023**)
+<ins>A Sublinear-time Spectral Clustering Oracle with Improved Preprocessing Time</ins> (**NeurIPS'2023**)
 
 **Ranran Shen**, Pan Peng
 
-[**Paper**](https://arxiv.org/abs/2402.14328) [**Code**](https://github.com/Zhaoyi-Li21/creme) [**Blog(in Chinese)**](https://zhuanlan.zhihu.com/p/684626522)
+[**Paper**](https://arxiv.org/pdf/2310.17878) [**Blog(in Chinese)**](https://zhuanlan.zhihu.com/p/684626522)
 - We interpret the internal mechanism of compositional step-by-step reasoning on multi-hop factual knowledge inside large language models and propose a light-weight method based on model editing to patch their compositional reasoning errors.
 </div>
 </div>
