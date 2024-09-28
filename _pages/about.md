@@ -88,11 +88,11 @@ Tianqi Zhong$^\*$, **Zhaoyi Li**$^\*$, Quan Wang, Linqi Song, Ying Wei, Defu Lia
 - *2019.10*, Second Prize, *CSU Undergraduate Student Academic Scholarship*.
    
 # 📖 Educations 
-- *2022.09 - now*, Master, School of Computer Science and Technology, University of Science and Technology of China, Hefei. 
-- *2018.09 - 2022.06*, Undergraduate (majored in CS), School of Computer Science and Engineering, Central South University, Changsha. 
+- *2022.09 ~ now*, Master, School of Computer Science and Technology, University of Science and Technology of China, Hefei. 
+- *2018.09 ~ 2022.06*, Undergraduate (majored in CS), School of Computer Science and Engineering, Central South University, Changsha. 
 
 # 💻 Internships
-- *2024.04 - 2024.08*, Tencent, Shenzhen.
+- *2024.04 ~ 2024.08*, Tencent, Shenzhen.
 
 # 🎖 Services
 - Teaching Assistant:
