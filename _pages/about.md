@@ -81,8 +81,7 @@ Tianqi Zhong$^\*$, **Zhaoyi Li**$^\*$, Quan Wang, Linqi Song, Ying Wei, Defu Lia
 # 🥇 Honors and Awards
 - *2023.10*, National Scholarship🔔.
 - *2022 ~ 2023*, First Prize, *USTC Graduate Student Academic Scholarship*.
-- *2022.06*, Honored as *The Outstanding Bachelor Graduate of CSU*.
-- *2022.06*, Honored as *The Outstanding Bachelor Graduate of Hunan province*.
+- *2022.06*, Honored as *The Outstanding Bachelor Graduate of CSU* and *Hunan province*.
 - *2021.10*, National Scholarship (Undergraduate)🔔.
 - *2019 ~ 2021*, Honored as *The Outstanding Student of School of Computer Science and Engineering, CSU*.
 - *2020 ~ 2021*, First Prize, *CSU Undergraduate Student Academic Scholarship*.
