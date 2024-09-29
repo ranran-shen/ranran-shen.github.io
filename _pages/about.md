@@ -29,7 +29,7 @@ My research interest includes machine learning and natural language processing. 
 
 # 📝 Publications 
 ($\*$ indicates the co-first authorship)
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/neurips2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/neurips2023_new.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 <ins>A Sublinear-time Spectral Clustering Oracle with Improved Preprocessing Time</ins> (**NeurIPS'2023**)
