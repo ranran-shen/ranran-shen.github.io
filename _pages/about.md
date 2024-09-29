@@ -36,7 +36,7 @@ My research interest includes machine learning and natural language processing. 
 **Ranran Shen**, Pan Peng
 
 [**Paper**](https://arxiv.org/pdf/2310.17878) [**Poster**](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72688.png?t=1701588568.181395)
-- We interpret the internal mechanism of compositional step-by-step reasoning on multi-hop factual knowledge inside large language models and propose a light-weight method based on model editing to patch their compositional reasoning errors.
+- We address the problem of designing a sublinear-time spectral clustering oracle for graphs that exhibit strong clusterability. Previous oracles have relied on either a poly(k) log n gap between inner and outer conductances or exponential (in k/ε) preprocessing time. Our algorithm relaxes these assumptions, albeit at the cost of a slightly higher misclassification ratio.
 </div>
 </div>
 
