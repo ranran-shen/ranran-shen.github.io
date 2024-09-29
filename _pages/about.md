@@ -1,4 +1,4 @@
----
+![R@SGMDL7Z3M$U7454`4PV`8](https://github.com/user-attachments/assets/639b5ba0-0e1a-4674-9151-1fbe60ca7e38)---
 permalink: /
 title: ""
 excerpt: ""
@@ -43,10 +43,10 @@ My research interest includes machine learning and natural language processing. 
 
 
 # 🏆 Honors and Awards
-- *2023.10*, National Scholarship📍.
+- *2023.10*, National Scholarship📍💐.
 - *2022 ~ 2023*, First Prize, *USTC Graduate Student Academic Scholarship*.
 - *2022.06*, Honored as *The Outstanding Bachelor Graduate of CSU* and *Hunan province*.
-- *2021.10*, National Scholarship (Undergraduate)📍.
+- *2021.10*, National Scholarship (Undergraduate)📍🌠.
 - *2019 ~ 2021*, Honored as *The Outstanding Student of School of Computer Science and Engineering, CSU*.
 - *2020 ~ 2021*, First Prize, *CSU Undergraduate Student Academic Scholarship*.
 - *2019.10*, Second Prize, *CSU Undergraduate Student Academic Scholarship*.
