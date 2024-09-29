@@ -28,7 +28,6 @@ My research interest includes machine learning and natural language processing. 
 - *2023.09*: &nbsp;🎉🎉 One paper was accepted by NeurIPS'2023 (main conference).
 
 # 📝 Publications 
-($\*$ indicates the co-first authorship)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/neurips2023_new.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
