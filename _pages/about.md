@@ -1,4 +1,4 @@
-![R@SGMDL7Z3M$U7454`4PV`8](https://github.com/user-attachments/assets/639b5ba0-0e1a-4674-9151-1fbe60ca7e38)---
+---
 permalink: /
 title: ""
 excerpt: ""
