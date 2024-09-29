@@ -46,7 +46,7 @@ My research interest includes machine learning and natural language processing. 
 
 
 # 💻 Internships
-- *2024.04 ~ 2024.08*, Tencent, Shenzhen.
+- *2024.04 ~ 2024.08*, [Tencent](https://www.tencent.com/en-us/), Shenzhen.
 
 
 # 🏆 Honors and Awards
