@@ -51,7 +51,7 @@ My research interest includes machine learning and natural language processing. 
 
 # 🏆 Honors and Awards
 - *2023.10*, National Scholarship🌷.
-- *2022 ~ 2023*, First Prize, *USTC Graduate Student Academic Scholarship*.
+- *2022 ~ 2024*, First Prize, *USTC Graduate Student Academic Scholarship*.
 - *2022.06*, Honored as *The Outstanding Bachelor Graduate of CSU* and *Hunan province*.
 - *2021.10*, National Scholarship (Undergraduate)🌷.
 - *2019 ~ 2021*, Honored as *The Outstanding Student of School of Computer Science and Engineering, CSU*.
