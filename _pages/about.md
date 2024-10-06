@@ -61,4 +61,4 @@ My research interest includes machine learning and natural language processing. 
 
 # 🎖 Services
 - Teaching Assistant:
-  - USTC, Algorithm Design and Analysis [COMP6001P03], 2023 Fall
+  - USTC, Algorithm Design and Analysis [COMP6001P03], 2023 Fall.
