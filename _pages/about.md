@@ -30,7 +30,7 @@ My research interests lie broadly in sublinear algorithms and graph algorithms. 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/neurips2023_new.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-<ins>A Sublinear-time Spectral Clustering Oracle with Improved Preprocessing Time</ins> (**NeurIPS'2023**)
+<ins>A Sublinear-Time Spectral Clustering Oracle with Improved Preprocessing Time</ins> (**NeurIPS'2023**)
 
 **Ranran Shen**, Pan Peng
 
