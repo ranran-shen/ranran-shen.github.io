@@ -20,7 +20,7 @@ redirect_from:
 Hi! I am Ranran Shen (申冉冉), a computer science master student in the [School of Computer Science and Technology](https://en.cs.ustc.edu.cn/main.htm) of [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). I feel very lucky to be advised by Prof.[Pan Peng](http://staff.ustc.edu.cn/~ppeng/).
 Previously, I got my Bachelor degree in Computer Science and Technology from [Central South University (CSU)](https://en.csu.edu.cn/) in 2022.
 
-My research interests lie broadly in clustering problems within theoretical computer science (TCS), although I am still in the process of defining a clear focus. So far, my work has involved studying sublinear-time spectral clustering oracles, and I am now beginning to explore clustering challenges in MPC (Masively Parallel Computation) model. And here is the page of [Theory Group](https://tcs.ustc.edu.cn/main.htm) in the School of Computer Science and Technology of USTC.
+My research interests lie broadly in clustering problems within theoretical computer science (TCS), although I am still in the process of defining a clear focus. So far, my work has involved studying sublinear-time spectral clustering oracles, and I am now beginning to explore clustering challenges in MPC (Masively Parallel Computation) model. And here is the link to the homepage of [CS Theory Group](https://tcs.ustc.edu.cn/main.htm) @USTC.
 
 
 # 🔥 News
