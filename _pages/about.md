@@ -48,7 +48,7 @@ If you are interested in TCS, please refer to the [CS Theory Group at USTC](http
 
 
 # 💻 Internships
-- *2024.04 ~ 2024.08*, [Tencent](https://www.tencent.com/en-us/), Shenzhen.
+- *2024.04 ~ 2024.08*, [Tencent](https://www.tencent.com/en-us/) <img src='../images/tencent_logo.png' style='width: 6em;'>, Shenzhen.
 
 
 # 🏆 Honors and Awards
