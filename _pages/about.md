@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Ranran Shen (申冉冉), a computer science master student in the [School of Computer Science and Technology](https://en.cs.ustc.edu.cn/main.htm) of [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). And I feel very lucky to be advised by Prof.[Pan Peng](http://staff.ustc.edu.cn/~ppeng/).
+Hi there! I am Ranran Shen (申冉冉), a master's student in Computer Science at the [School of Computer Science and Technology](https://en.cs.ustc.edu.cn/main.htm), [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). I feel incredibly fortunate to be advised by Prof.[Pan Peng](http://staff.ustc.edu.cn/~ppeng/), whose guidance has been instrumental in shaping my academic journey.
 Previously, I got my Bachelor's degree in Computer Science and Technology from [Central South University (CSU)](https://en.csu.edu.cn/) in 2022.
 
 My research interests lie broadly in sublinear algorithms and graph algorithms. Specifically, I am currently focusing on sublinear-time clustering algorithms on graphs, though I am still in the process of forming a more defined understanding of my research direction. So far, my work has involved studying sublinear-time spectral clustering oracles, and I am now beginning to explore clustering challenges in MPC (Massively Parallel Computation) model.
