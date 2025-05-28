@@ -71,7 +71,7 @@ If you are interested in TCS, please refer to the [CS Theory Group at USTC](http
 - Teaching Assistant:
   - Algorithm Design and Analysis [COMP6001P.03], 2023 Fall, USTC.
     - Instructor: Prof.[Pan Peng](http://staff.ustc.edu.cn/~ppeng/).
-  - [Algorithms for Big Data](https://icourse.club/course/21471/), [011186.02], 2025 Spring, USTC.
+  - [Algorithms for Big Data [011186.02]](https://icourse.club/course/21471/), 2025 Spring, USTC.
     - Instructor: Prof.[Pan Peng](http://staff.ustc.edu.cn/~ppeng/). 
 
 
