@@ -55,7 +55,7 @@ If you are interested in TCS, please refer to the [CS Theory Group at USTC](http
 
 
 # 🏆 Honors and Awards
-- *2023.10*, National Scholarship🌷.
+- *2023.10*, National Scholarship (**Top 2%**)🌷.
 - *2022 ~ 2024*, First Prize, *USTC Graduate Student Academic Scholarship*.
 - *2022.06*, Honored as *The Outstanding Bachelor Graduate of CSU* (**Top 15%**).
 - *2022.06*, Honored as *The Outstanding Bachelor Graduate of Hunan Province* (**Top 3%**).
