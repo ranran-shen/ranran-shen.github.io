@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I am Ranran Shen (申冉冉), a master's student in Computer Science at [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). I feel incredibly fortunate to be advised by Prof.[Pan Peng](http://staff.ustc.edu.cn/~ppeng/), whose guidance has been instrumental in shaping my academic journey.
+Hi there! I am Ranran Shen (申冉冉), a master's student in Computer Science at [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). I feel incredibly fortunate to be advised by Prof. [Pan Peng](http://staff.ustc.edu.cn/~ppeng/), whose guidance has been instrumental in shaping my academic journey.
 Previously, I got my Bachelor's degree in Computer Science and Technology from [Central South University (CSU)](https://en.csu.edu.cn/) in 2022.
 
 My research interests lie broadly in sublinear-time algorithms and graph algorithms. Specifically, I am currently focusing on sublinear-time clustering algorithms on graphs, though I am still in the process of forming a more defined understanding of my research direction.
@@ -70,9 +70,9 @@ If you are interested in TCS, please refer to the [CS Theory Group at USTC](http
   - NeurIPS 2025.
 - Teaching Assistant:
   - [Algorithms for Big Data [011186.02]](https://icourse.club/course/21471/), 2025 Spring (ongoing), Undergraduate Level, USTC.
-    - Instructor: Prof.[Pan Peng](http://staff.ustc.edu.cn/~ppeng/).
+    - Instructor: Prof. [Pan Peng](http://staff.ustc.edu.cn/~ppeng/).
   - Algorithm Design and Analysis [COMP6001P.03], 2023 Fall, Graduate Level, USTC.
-      - Instructor: Prof.[Pan Peng](http://staff.ustc.edu.cn/~ppeng/), Prof.[Xiaohua Xu](http://staff.ustc.edu.cn/~xiaohuaxu/).
+      - Instructor: Prof. [Pan Peng](http://staff.ustc.edu.cn/~ppeng/), Prof. [Xiaohua Xu](http://staff.ustc.edu.cn/~xiaohuaxu/).
 
 
 # 🦕 Special Links
