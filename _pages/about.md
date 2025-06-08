@@ -32,7 +32,7 @@ If you are interested in TCS, please refer to the [CS Theory Group at USTC](http
 - *2023.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS'2023 (main conference)!
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS'2023</div><img src='images/neurips2023_new.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/neurips2023_new.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 <ins>A Sublinear-Time Spectral Clustering Oracle with Improved Preprocessing Time</ins> (**NeurIPS'2023**)
