@@ -59,7 +59,7 @@ If you are interested in TCS, please refer to the [CS Theory Group at USTC](http
 - *2022 ~ 2024*, First Prize, *USTC Graduate Student Academic Scholarship*.
 - *2022.06*, Honored as *The Outstanding Bachelor Graduate of CSU* (Top 15%).
 - *2022.06*, Honored as *The Outstanding Bachelor Graduate of Hunan Province* (Top 3%).
-- *2021.10*, National Scholarship (Undergraduate)🌷.
+- *2021.10*, National Scholarship (Undergraduate, Top 2%)🌷.
 - *2019 ~ 2021*, Honored as *The Outstanding Student of School of Computer Science and Engineering, CSU*.
 - *2020 ~ 2021*, First Prize, *CSU Undergraduate Student Academic Scholarship*.
 - *2019.10*, Second Prize, *CSU Undergraduate Student Academic Scholarship*.
