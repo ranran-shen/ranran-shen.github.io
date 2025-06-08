@@ -37,7 +37,7 @@ If you are interested in TCS, please refer to the [CS Theory Group at USTC](http
   
 <ins>A Sublinear-Time Spectral Clustering Oracle with Improved Preprocessing Time</ins> (**NeurIPS'2023**)
 
-**Ranran Shen**, Pan Peng
+**Ranran Shen**, [Pan Peng](http://staff.ustc.edu.cn/~ppeng/)
 
 [**Paper**](https://arxiv.org/pdf/2310.17878) [**Poster**](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72688.png?t=1701588568.181395)
 - We address the problem of designing a sublinear-time spectral clustering oracle for graphs that exhibit strong clusterability. Previous oracles have relied on either a $\textrm{poly}(k)\cdot\log n$ gap between inner and outer conductances or exponential (in $k/\varepsilon$) preprocessing time. Our algorithm relaxes these assumptions, albeit at the cost of a slightly higher misclassification ratio.
