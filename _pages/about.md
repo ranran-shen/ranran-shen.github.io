@@ -69,9 +69,9 @@ If you are interested in TCS, please refer to the [CS Theory Group at USTC](http
 - Invited Reviewer:
   - NeurIPS 2025.
 - Teaching Assistant:
-  - [Algorithms for Big Data](https://icourse.club/course/21471/), Spring 2025, Undergraduate Level, USTC.
+  - Spring 2025: [Algorithms for Big Data](https://icourse.club/course/21471/), Undergraduate Level, USTC.
     - Instructor: Prof. [Pan Peng](http://staff.ustc.edu.cn/~ppeng/).
-  - Algorithm Design and Analysis, Fall 2023, Graduate Level, USTC.
+  - Fall 2023: Algorithm Design and Analysis, Graduate Level, USTC.
       - Instructors: Prof. [Pan Peng](http://staff.ustc.edu.cn/~ppeng/) and Prof. [Xiaohua Xu](http://staff.ustc.edu.cn/~xiaohuaxu/).
 
 
