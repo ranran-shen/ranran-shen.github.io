@@ -74,4 +74,4 @@ If you are interested in TCS, please refer to the [CS Theory Group at USTC](http
 
 
 # 🦕 Special Links
-- Here is the link to the homepage of my boyfriend: [Zhaoyi (Joey) Li](https://zhaoyi-li21.github.io/).
+- Here is the link to the homepage of my boyfriend: [Zhaoyi Li](https://zhaoyi-li21.github.io/).
