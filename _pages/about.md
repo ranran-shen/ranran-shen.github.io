@@ -26,6 +26,7 @@ If you are interested in TCS, please refer to the [CS Theory Group at USTC](http
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 One paper is accepted by ICLR'2026 (main conference) and many thanks to my co-authors!
 - *2024.04*: &nbsp;🎉🎉 Thrilled to start an internship at Tencent, focusing on GUI agent.
 - *2023.12*: &nbsp;🎉🎉 Incredibly excited to attend the NeurIPS'2023 conference (hosted in New Orleans, Louisiana, USA) and present my poster.
 - *2023.10*: &nbsp;🎉🎉 I'm honored to receive the National Scholarship!
