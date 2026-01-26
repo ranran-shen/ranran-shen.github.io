@@ -38,7 +38,7 @@ If you are interested in TCS, please refer to the [CS Theory Group at USTC](http
   
 <ins>Sublinear Spectral Clustering Oracle with Little Memory</ins> (**ICLR'2026**)
 
-**Ranran Shen**, Xiaoyi Zhu, [Pan Peng](http://staff.ustc.edu.cn/~ppeng/) [Zengfeng Huang](https://zengfenghuang.github.io/)
+**Ranran Shen**, Xiaoyi Zhu, [Pan Peng](http://staff.ustc.edu.cn/~ppeng/), [Zengfeng Huang](https://zengfenghuang.github.io/)
 
 - We study the problem of designing sublinear spectral clustering oracles for well-clusterable graphs. A major limitation of existing oracles is that constructing $\mathcal{D}$ requires $\Omega(\sqrt{n})$ memory, which becomes a bottleneck for massive graphs and memory-limited settings. In this paper, we break this barrier and establish a memory-time trade-off for sublinear spectral clustering oracles.
 </div>
