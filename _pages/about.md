@@ -69,6 +69,7 @@ If you are interested in TCS, please refer to the [CS Theory Group at USTC](http
 
 
 # 🏆 Honors and Awards
+- *2026.03*, ICLR travel grant.
 - *2023.10*, National Scholarship (**Top 2%**)🌷.
 - *2022 ~ 2025*, First Prize, *USTC Graduate Student Academic Scholarship*.
 - *2022.06*, Honored as *The Outstanding Bachelor Graduate of Hunan Province* (**Top 3%**).
