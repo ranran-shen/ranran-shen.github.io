@@ -60,7 +60,8 @@ If you are interested in TCS, please refer to the [CS Theory Group at USTC](http
 
 
 # 📖 Education
-- *2022.09 ~ present*, Ph.D. student, [School of Computer Science and Technology](https://en.cs.ustc.edu.cn/main.htm), University of Science and Technology of China (USTC), Hefei. 
+- *2022.09 ~ present*, Ph.D. student, [School of Computer Science and Technology](https://en.cs.ustc.edu.cn/main.htm), University of Science and Technology of China (USTC), Hefei.
+  - in successive master-doctor program.
 - *2018.09 ~ 2022.06*, Undergraduate, [School of Computer Science and Engineering](https://cse.csu.edu.cn/), Central South University (CSU), Changsha. 
 
 
