@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I am Ranran Shen (申冉冉), a Ph.D. student in Computer Science at [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). I feel incredibly fortunate to be advised by Prof. [Pan Peng](http://staff.ustc.edu.cn/~ppeng/), whose guidance has been instrumental in shaping my academic journey.
+Hi there! I am Ranran Shen (申冉冉), a Ph.D. student in Computer Science at [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). I feel incredibly fortunate to be advised by Prof. [Pan Peng](http://staff.ustc.edu.cn/~ppeng/), whose guidance has been instrumental in shaping my academic journey. I am a member of the [AntBag](https://pepy.github.io/antbag/) group.
 Previously, I got my Bachelor's degree in Computer Science and Technology from [Central South University (CSU)](https://en.csu.edu.cn/) in 2022, where I was advised by Prof. [Ying Zhao](https://faculty.csu.edu.cn/zhaoying).
 
-My research interests lie broadly in sublinear-time algorithms and graph algorithms. Specifically, I am currently focusing on sublinear-time clustering algorithms on graphs, though I am still in the process of forming a more defined understanding of my research direction.
+My research interests lie broadly in sublinear-time algorithms and graph algorithms. Specifically, I am currently focusing on sublinear-time clustering algorithms on graphs, though I am still in the process of forming a more defined understanding of my research direction. 
 
-If you are interested in TCS, please refer to the [CS Theory Group at USTC](https://tcs.ustc.edu.cn/main.htm) webpage for more information. If you’d like to discuss my research or have any questions, please feel free to email me at: ranranshen@mail.ustc.edu.cn.
+If you’d like to discuss my research or have any questions, please feel free to email me at: ranranshen@mail.ustc.edu.cn.
 
 
 # 🔥 News
