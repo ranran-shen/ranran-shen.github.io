@@ -22,7 +22,7 @@ Previously, I got my Bachelor's degree in Computer Science and Technology from [
 
 My research interests lie broadly in sublinear-time algorithms and graph algorithms. Specifically, I am currently focusing on sublinear-time clustering algorithms on graphs, though I am still in the process of forming a more defined understanding of my research direction. 
 
-If you’d like to discuss my research or have any questions, please feel free to email me at: ranranshen@mail.ustc.edu.cn.
+If you’d like to discuss my research or have any questions, please feel free to email me at: ranranshen@mail.ustc.edu.cn. I’m also happy to connect with people both within and beyond academia (:.
 
 
 # 🔥 News
