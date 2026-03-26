@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I am Ranran Shen (申冉冉), a Ph.D. student in Computer Science at [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). I feel incredibly fortunate to be advised by Prof. [Pan Peng](http://staff.ustc.edu.cn/~ppeng/), whose guidance has been instrumental in shaping my academic journey. I am a member of the [AntBag](https://pepy.github.io/antbag/) group.
+Hi there! I am Ranran Shen (申冉冉), a Ph.D. student in Computer Science at [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). I feel incredibly fortunate to be advised by Prof. [Pan Peng](https://pepy.github.io/), whose guidance has been instrumental in shaping my academic journey. I am a member of the [AntBag](https://pepy.github.io/antbag/) group.
 Previously, I got my Bachelor's degree in Computer Science and Technology from [Central South University (CSU)](https://en.csu.edu.cn/) in 2022, where I was advised by Prof. [Ying Zhao](https://faculty.csu.edu.cn/zhaoying).
 
 My research interests lie broadly in sublinear-time algorithms and graph algorithms. Specifically, I am currently focusing on sublinear-time clustering algorithms on graphs, though I am still in the process of forming a more defined understanding of my research direction. 
@@ -38,7 +38,7 @@ If you’d like to discuss my research or have any questions, please feel free t
   
 <ins>Sublinear Spectral Clustering Oracle with Little Memory</ins> (**ICLR'2026**)
 
-**Ranran Shen**, Xiaoyi Zhu, [Pan Peng](http://staff.ustc.edu.cn/~ppeng/), [Zengfeng Huang](https://zengfenghuang.github.io/)
+**Ranran Shen**, Xiaoyi Zhu, [Pan Peng](https://pepy.github.io/), [Zengfeng Huang](https://zengfenghuang.github.io/)
 
 **Paper** and **Poster** will be updated soon.
 - We study the problem of designing sublinear spectral clustering oracles for well-clusterable graphs. A major limitation of existing oracles is that constructing $\mathcal{D}$ requires $\Omega(\sqrt{n})$ memory, which becomes a bottleneck for massive graphs and memory-limited settings. In this paper, we break this barrier and establish a memory-time trade-off for sublinear spectral clustering oracles.
@@ -51,7 +51,7 @@ If you’d like to discuss my research or have any questions, please feel free t
   
 <ins>A Sublinear-Time Spectral Clustering Oracle with Improved Preprocessing Time</ins> (**NeurIPS'2023**)
 
-**Ranran Shen**, [Pan Peng](http://staff.ustc.edu.cn/~ppeng/)
+**Ranran Shen**, [Pan Peng](https://pepy.github.io/)
 
 [**Paper**](https://arxiv.org/pdf/2310.17878)｜**Slides: [short (5 min)](https://ranran-shen.github.io/docs/NeurIPS2023-slides-5-min.pdf), [full](../docs/NeurIPS2023-slides-full-version.pdf)**｜[**Poster**](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72688.png?t=1701588568.181395)
 - We address the problem of designing a sublinear-time spectral clustering oracle for graphs that exhibit strong clusterability. Previous oracles have relied on either a $\textrm{poly}(k)\cdot\log n$ gap between inner and outer conductances or exponential (in $k/\varepsilon$) preprocessing time. Our algorithm relaxes these assumptions, albeit at the cost of a slightly higher misclassification ratio.
@@ -85,8 +85,8 @@ If you’d like to discuss my research or have any questions, please feel free t
 - Invited Reviewer:
   - ICLR 2026, ICML 2026.
 - Teaching Assistant:
-  - Spring 2025: [Algorithms for Big Data](https://icourse.club/course/21471/) (Undergraduate, USTC). Instructor: Prof. [Pan Peng](http://staff.ustc.edu.cn/~ppeng/).
-  - Fall 2023: Design and Analysis of Algorithms (Graduate, USTC). Instructors: Prof. [Pan Peng](http://staff.ustc.edu.cn/~ppeng/) and Prof. [Xiaohua Xu](http://staff.ustc.edu.cn/~xiaohuaxu/).
+  - Spring 2025: [Algorithms for Big Data](https://icourse.club/course/21471/) (Undergraduate, USTC). Instructor: Prof. [Pan Peng](https://pepy.github.io/).
+  - Fall 2023: Design and Analysis of Algorithms (Graduate, USTC). Instructors: Prof. [Pan Peng](https://pepy.github.io/) and Prof. [Xiaohua Xu](http://staff.ustc.edu.cn/~xiaohuaxu/).
 
 
 # 🦕 Special Links
