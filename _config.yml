@@ -24,7 +24,7 @@ author:
   name             : "Ranran Shen"
   avatar           : "images/ranranshen.png"
   bio              : "Ph.D. student in Computer Science"
-  location         : "China"
+  location         : #"China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=BvA-wRQAAAAJ"
