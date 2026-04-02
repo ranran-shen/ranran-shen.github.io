@@ -85,7 +85,7 @@ Outside of research, I enjoy crocheting, hiking, reading, and photography. I'm a
 
 # 🎖 Services
 - Invited Reviewer:
-  - ICLR 2026, ICML 2026.
+  - NeurIPS 2026, COCOON 2026, ICLR 2026, ICML 2026.
 - Teaching Assistant:
   - Spring 2025: [Algorithms for Big Data](https://icourse.club/course/21471/) (Undergraduate, USTC). Instructor: Prof. [Pan Peng](https://pepy.github.io/).
   - Fall 2023: Design and Analysis of Algorithms (Graduate, USTC). Instructors: Prof. [Pan Peng](https://pepy.github.io/) and Prof. [Xiaohua Xu](http://staff.ustc.edu.cn/~xiaohuaxu/).
