@@ -69,7 +69,15 @@ Outside of research, I enjoy crocheting, hiking, reading, and photography. I'm a
 
 # 💻 Internships
 - *2024.04 ~ 2024.08*, [Tencent](https://www.tencent.com/en-us/) <img src='../images/tencent_logo.png' style='width: 6em;'>, Shenzhen.
+   
 
+# 🎖 Services
+- Invited Reviewer:
+  - NeurIPS 2026, COCOON 2026, ICLR 2026, ICML 2026.
+- Teaching Assistant:
+  - Spring 2025: [Algorithms for Big Data](https://icourse.club/course/21471/) (Undergraduate, USTC). Instructor: Prof. [Pan Peng](https://pepy.github.io/).
+  - Fall 2023: Design and Analysis of Algorithms (Graduate, USTC). Instructors: Prof. [Pan Peng](https://pepy.github.io/) and Prof. [Xiaohua Xu](http://staff.ustc.edu.cn/~xiaohuaxu/).
+ 
 
 # 🏆 Honors and Awards
 - *2026.03*, ICLR 2026 Travel Grant.
@@ -81,14 +89,6 @@ Outside of research, I enjoy crocheting, hiking, reading, and photography. I'm a
 - *2019 ~ 2021*, Honored as *The Outstanding Student of School of Computer Science and Engineering, CSU*.
 - *2020 ~ 2021*, First Prize, *CSU Undergraduate Student Academic Scholarship*.
 - *2019.10*, Second Prize, *CSU Undergraduate Student Academic Scholarship*.
-   
-
-# 🎖 Services
-- Invited Reviewer:
-  - NeurIPS 2026, COCOON 2026, ICLR 2026, ICML 2026.
-- Teaching Assistant:
-  - Spring 2025: [Algorithms for Big Data](https://icourse.club/course/21471/) (Undergraduate, USTC). Instructor: Prof. [Pan Peng](https://pepy.github.io/).
-  - Fall 2023: Design and Analysis of Algorithms (Graduate, USTC). Instructors: Prof. [Pan Peng](https://pepy.github.io/) and Prof. [Xiaohua Xu](http://staff.ustc.edu.cn/~xiaohuaxu/).
 
 
 # 🦕 Special Links
