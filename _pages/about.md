@@ -24,7 +24,7 @@ My research interests lie broadly in spectral graph theory, sublinear algorithms
 
 If you’d like to discuss my research or have any questions, please feel free to email me at: ranranshen@mail.ustc.edu.cn. I’m also happy to connect with people both within and beyond academia🔅. 
 
-Outside of research, I enjoy crocheting, hiking, reading, and photography. I'm also a beginner jazz dancer — still learning, but loving it.
+Outside of research, I enjoy crocheting, hiking, reading, and photography. I'm also a beginner jazz dancer -- still learning, but loving it.
 
 
 # 🔥 News
