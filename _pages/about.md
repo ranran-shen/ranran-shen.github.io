@@ -42,7 +42,7 @@ Outside of research, I enjoy crocheting, hiking, reading, and photography. I'm a
 
 **Ranran Shen**, Xiaoyi Zhu, [Pan Peng](https://pepy.github.io/), [Zengfeng Huang](https://zengfenghuang.github.io/)
 
-**Paper** and **Poster** will be updated soon.
+[**Paper**](https://arxiv.org/abs/2604.14981)｜[**Poster**](https://iclr.cc/media/PosterPDFs/ICLR%202026/10011950.png?t=1777654234.6605842)
 - We study the problem of designing sublinear spectral clustering oracles for well-clusterable graphs. A major limitation of existing oracles is that constructing $\mathcal{D}$ requires $\Omega(\sqrt{n})$ memory, which becomes a bottleneck for massive graphs and memory-limited settings. In this paper, we break this barrier and establish a memory-time trade-off for sublinear spectral clustering oracles.
 </div>
 </div>
