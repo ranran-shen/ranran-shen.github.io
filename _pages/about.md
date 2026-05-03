@@ -20,11 +20,7 @@ redirect_from:
 Hi there! I am Ranran Shen (申冉冉), a Ph.D. student in Computer Science at [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). I feel incredibly fortunate to be advised by Prof. [Pan Peng](https://pepy.github.io/), whose guidance has been instrumental in shaping my academic journey. I am a member of the [AntBag](https://pepy.github.io/antbag/) group.
 Previously, I got my Bachelor's degree in Computer Science and Technology from [Central South University (CSU)](https://en.csu.edu.cn/) in 2022.
 
-My research interests lie broadly in spectral graph theory, sublinear algorithms and graph algorithms. I am actively exploring new directions within this space.
-
-If you’d like to discuss my research or have any questions, please feel free to email me at: ranranshen@mail.ustc.edu.cn. I’m also happy to connect with people both within and beyond academia🔅. 
-
-Outside of research, I enjoy crocheting, hiking, reading, and photography. I'm also a beginner jazz dancer — still learning, but loving it.
+My research interests lie broadly in spectral graph theory, sublinear algorithms and graph algorithms. I am actively exploring new directions within this space. If you’d like to discuss my research or have any questions, please feel free to email me at: ranranshen@mail.ustc.edu.cn. I’m also happy to connect with people both within and beyond academia🔅. 
 
 
 # 🔥 News
