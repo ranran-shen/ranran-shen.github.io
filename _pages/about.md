@@ -50,7 +50,7 @@ My research interests lie broadly in spectral graph theory, sublinear algorithms
 
 **Ranran Shen**, [Pan Peng](https://pepy.github.io/)
 
-[**Paper**](https://arxiv.org/pdf/2310.17878)｜**Slides: [short (5 min)](https://ranran-shen.github.io/docs/NeurIPS2023-slides-5-min.pdf), [full](../docs/NeurIPS2023-slides-full-version.pdf)**｜[**Poster**](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72688.png?t=1701588568.181395)
+[**Paper**](https://arxiv.org/abs/2310.17878)｜**Slides: [short (5 min)](https://ranran-shen.github.io/docs/NeurIPS2023-slides-5-min.pdf), [full](../docs/NeurIPS2023-slides-full-version.pdf)**｜[**Poster**](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72688.png?t=1701588568.181395)
 - We address the problem of designing a sublinear-time spectral clustering oracle for graphs that exhibit strong clusterability. Previous oracles have relied on either a $\textrm{poly}(k)\cdot\log n$ gap between inner and outer conductances or exponential (in $k/\varepsilon$) preprocessing time. Our algorithm relaxes these assumptions, albeit at the cost of a slightly higher misclassification ratio.
 </div>
 </div>
