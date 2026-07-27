@@ -54,7 +54,8 @@ My research interests lie broadly in spectral graph theory, sublinear algorithms
 - We address the problem of designing a sublinear-time spectral clustering oracle for graphs that exhibit strong clusterability. Previous oracles have relied on either a $\textrm{poly}(k)\cdot\log n$ gap between inner and outer conductances or exponential (in $k/\varepsilon$) preprocessing time. Our algorithm relaxes these assumptions, albeit at the cost of a slightly higher misclassification ratio.
 </div>
 </div>
-- <ins>On the Role of Reasoning Patterns in the Generalization Discrepancy of Long Chain-of-Thought Supervised Fine-Tuning.</ins> **COLM 2026**. Zhaoyi Li*, Xiangyu Xi*, Zhengyu Chen, Wei Wang, Gangwei Jiang, **Ranran Shen**, Linqi Song, Ying Wei and Defu Lian
+- <ins>On the Role of Reasoning Patterns in the Generalization Discrepancy of Long Chain-of-Thought Supervised Fine-Tuning.</ins> **COLM 2026**. 
+Zhaoyi Li*, Xiangyu Xi*, Zhengyu Chen, Wei Wang, Gangwei Jiang, **Ranran Shen**, Linqi Song, Ying Wei and Defu Lian
 
 
 # 📖 Education
