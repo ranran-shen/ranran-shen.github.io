@@ -55,6 +55,7 @@ My research interests lie broadly in spectral graph theory, sublinear algorithms
 </div>
 </div>
 - [On the Role of Reasoning Patterns in the Generalization Discrepancy of Long Chain-of-Thought Supervised Fine-Tuning](https://arxiv.org/abs/2604.01702). **COLM 2026**. 
+
 Zhaoyi Li*, Xiangyu Xi*, Zhengyu Chen, Wei Wang, Gangwei Jiang, **Ranran Shen**, Linqi Song, Ying Wei and Defu Lian
 
 
