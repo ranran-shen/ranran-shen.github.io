@@ -55,6 +55,7 @@ My research interests lie broadly in spectral graph theory, sublinear algorithms
 </div>
 </div>
 - [On the Role of Reasoning Patterns in the Generalization Discrepancy of Long Chain-of-Thought Supervised Fine-Tuning](https://arxiv.org/abs/2604.01702). **COLM 2026**. Zhaoyi Li, Xiangyu Xi, Zhengyu Chen, Wei Wang, Gangwei Jiang, **Ranran Shen**, Linqi Song, Ying Wei and Defu Lian.
+
 - [Every Coin Has Two Sides: On the Dual Nature of Generalization in On-Policy Distillation of Large Language Models](https://arxiv.org/abs/2608.16647). **Preprint**. Zhaoyi Li, Deyang Kong, Yuan Wei, Evan Yang, **Ranran Shen**, Mahardika Krisna Ihsani, Ming Yang, Wei Zhang, Chuan Hao, Jian Yang, Ran Tao, Bryan Dai, Shikun Zhang, Wei Ye, Ying Wei, Defu Lian.
 
 
