@@ -82,7 +82,7 @@ My research interests lie broadly in spectral graph theory, sublinear algorithms
 # 🏆 Honors and Awards
 - *2026.03*, ICLR 2026 Travel Grant.
 - *2023.10*, National Scholarship (**Top 2%**)🌷.
-- *2022 ~ 2025*, First Prize, *USTC Graduate Student Academic Scholarship*.
+- *2022 ~ 2026*, First Prize, *USTC Graduate Student Academic Scholarship*.
 - *2022.06*, Honored as *The Outstanding Bachelor Graduate of Hunan Province* (**Top 3%**).
 - *2022.06*, Honored as *The Outstanding Bachelor Graduate of CSU* (**Top 15%**).
 - *2021.10*, National Scholarship (Undergraduate, **Top 2%**)🌷.
