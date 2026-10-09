@@ -24,8 +24,9 @@ My research interests lie broadly in spectral graph theory, sublinear algorithms
 
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 Thrilled to start an internship at <img src='../images/agibot-logo-2.png' style='width: 6em;'>, focusing on OPD.💻
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by ICLR'2026 (main conference) and many thanks to my co-authors!📝
-- *2024.04*: &nbsp;🎉🎉 Thrilled to start an internship at <img src='../images/tencent_logo.png' style='width: 6em;'>, focusing on GUI agent.💻
+- *2024.04*: &nbsp;🎉🎉 Thrilled to start an internship at <img src='../images/tencent_logo.png' style='width: 6em;'>.💻
 - *2023.10*: &nbsp;🎉🎉 I'm honored to receive the National Scholarship!🏆
 - *2023.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS'2023 (main conference)!📝
 
@@ -66,6 +67,7 @@ My research interests lie broadly in spectral graph theory, sublinear algorithms
 
 
 # 💻 Internship
+- *2026.08 ~ 2026.09*, [AGIBOT](https://www.agibot.com/) <img src='../images/agibot-logo-2.png' style='width: 6em;'>, Beijing.
 - *2024.04 ~ 2024.08*, [Tencent](https://www.tencent.com/en-us/) <img src='../images/tencent_logo.png' style='width: 6em;'>, Shenzhen.
    
 
