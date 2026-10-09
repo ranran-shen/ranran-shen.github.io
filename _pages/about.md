@@ -66,7 +66,7 @@ My research interests lie broadly in spectral graph theory, sublinear algorithms
 - *2018.09 ~ 2022.06*, Undergraduate, [School of Computer Science and Engineering](https://cse.csu.edu.cn/), Central South University (CSU), Changsha. 
 
 
-# 💻 Internship
+# 💻 Internships
 - *2026.08 ~ 2026.09*, [AGIBOT](https://www.agibot.com/) <img src='../images/agibot-logo-2.png' style='width: 6em;'>, Beijing.
 - *2024.04 ~ 2024.08*, [Tencent](https://www.tencent.com/en-us/) <img src='../images/tencent_logo.png' style='width: 6em;'>, Shenzhen.
    
