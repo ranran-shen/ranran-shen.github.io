@@ -46,7 +46,7 @@ COLM 2026
 
 **Every Coin Has Two Sides: On the Dual Nature of Generalization in On-Policy Distillation of Large Language Models** [[arXiv](https://arxiv.org/abs/2608.16647)]  
 <span style="color:#666">Zhaoyi Li, Deyang Kong, Yuan Wei, Evan Yang, **Ranran Shen**, Mahardika Krisna Ihsani, Ming Yang, Wei Zhang, Chuan Hao, Jian Yang, Ran Tao, Bryan Dai, Shikun Zhang, Wei Ye, Ying Wei, Defu Lian.</span>  
-Preprint  
+Preprint 2026  
 
 
 # 📖 Education
