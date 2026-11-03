@@ -37,7 +37,7 @@ My research interests lie broadly in spectral graph theory, sublinear algorithms
 ICLR 2026  
 
 **A Sublinear-Time Spectral Clustering Oracle with Improved Preprocessing Time** [[arXiv](https://arxiv.org/abs/2310.17878)] [[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72688.png?t=1701588568.181395)] [[Slides](https://ranran-shen.github.io/docs/NeurIPS2023-slides-full-version.pdf)]  
-<span style="color:#666">**Ranran Shen**, Pan Peng.</span>  
+<span style="color:#666"><b style="color:#494e52">Ranran Shen</b>, Pan Peng.</span>  
 NeurIPS 2023  
 
 **On the Role of Reasoning Patterns in the Generalization Discrepancy of Long Chain-of-Thought Supervised Fine-Tuning** [[arXiv](https://arxiv.org/abs/2604.01702)]  
