@@ -41,11 +41,9 @@ My research interests lie broadly in spectral graph theory, sublinear algorithms
 </div>
 
 
-<div class="pub">
-  <div class="pub-title">下一篇论文标题 <a href="https://arxiv.org/abs/xxxx">[arXiv]</a></div>
-  <div class="pub-authors">with A. B, C. D.</div>
-  <div class="pub-venue">Preprint – 2026</div>
-</div>
+**Sublinear Spectral Clustering Oracle with Little Memory** [[arXiv](https://arxiv.org/abs/2604.14981)] [[Poster](https://iclr.cc/media/PosterPDFs/ICLR%202026/10011950.png?t=1777654234.6605842)]  
+<span style="color:#666">with Xiaoyi Zhu, Pan Peng, Zengfeng Huang.</span>  
+ICLR 2026
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/ICLR2026.PNG' alt="sym" width="100%"></div></div>
