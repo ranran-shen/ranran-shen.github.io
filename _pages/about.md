@@ -31,48 +31,22 @@ My research interests lie broadly in spectral graph theory, sublinear algorithms
 - *2023.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS'2023 (main conference)!📝
 
 # 📝 Publications 
-<div class="pub">
-  <div class="pub-title">Sublinear Spectral Clustering Oracle with Little Memory
-    <a href="https://arxiv.org/abs/2604.14981">[arXiv]</a>
-    <a href="https://iclr.cc/media/PosterPDFs/ICLR%202026/10011950.png?t=1777654234.6605842">[Poster]</a>
-  </div>
-  <div class="pub-authors">with Xiaoyi Zhu, <a href="https://pepy.github.io/">Pan Peng</a>, <a href="https://zengfenghuang.github.io/">Zengfeng Huang</a>.</div>
-  <div class="pub-venue">ICLR 2026</div>
-</div>
-
 
 **Sublinear Spectral Clustering Oracle with Little Memory** [[arXiv](https://arxiv.org/abs/2604.14981)] [[Poster](https://iclr.cc/media/PosterPDFs/ICLR%202026/10011950.png?t=1777654234.6605842)]  
-<span style="color:#666">with Xiaoyi Zhu, Pan Peng, Zengfeng Huang.</span>  
+<span style="color:#666">**Ranran Shen**, Xiaoyi Zhu, Pan Peng, Zengfeng Huang.</span>  
 ICLR 2026
 
+**A Sublinear-Time Spectral Clustering Oracle with Improved Preprocessing Time** [[arXiv](https://arxiv.org/abs/2310.17878)] [[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72688.png?t=1701588568.181395)]
+<span style="color:#666">**Ranran Shen**, Pan Peng.</span>  
+NeurIPS 2023
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/ICLR2026.PNG' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-<ins>Sublinear Spectral Clustering Oracle with Little Memory</ins> (**ICLR'2026**)
+**On the Role of Reasoning Patterns in the Generalization Discrepancy of Long Chain-of-Thought Supervised Fine-Tuning** [[arXiv](https://arxiv.org/abs/2604.01702)]
+<span style="color:#666">Zhaoyi Li, Xiangyu Xi, Zhengyu Chen, Wei Wang, Gangwei Jiang, **Ranran Shen**, Linqi Song, Ying Wei and Defu Lian.</span>  
+COLM 2026
 
-**Ranran Shen**, Xiaoyi Zhu, [Pan Peng](https://pepy.github.io/), [Zengfeng Huang](https://zengfenghuang.github.io/)
-
-[**Paper**](https://arxiv.org/abs/2604.14981)｜[**Poster**](https://iclr.cc/media/PosterPDFs/ICLR%202026/10011950.png?t=1777654234.6605842)
-- We study the problem of designing sublinear spectral clustering oracles for well-clusterable graphs. A major limitation of existing oracles is that constructing $\mathcal{D}$ requires $\Omega(\sqrt{n})$ memory, which becomes a bottleneck for massive graphs and memory-limited settings. In this paper, we break this barrier and establish a memory-time trade-off for sublinear spectral clustering oracles.
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/neurips2023_new.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-<ins>A Sublinear-Time Spectral Clustering Oracle with Improved Preprocessing Time</ins> (**NeurIPS'2023**)
-
-**Ranran Shen**, [Pan Peng](https://pepy.github.io/)
-
-[**Paper**](https://arxiv.org/abs/2310.17878)｜**Slides: [short (5 min)](https://ranran-shen.github.io/docs/NeurIPS2023-slides-5-min.pdf), [full](../docs/NeurIPS2023-slides-full-version.pdf)**｜[**Poster**](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72688.png?t=1701588568.181395)
-- We address the problem of designing a sublinear-time spectral clustering oracle for graphs that exhibit strong clusterability. Previous oracles have relied on either a $\textrm{poly}(k)\cdot\log n$ gap between inner and outer conductances or exponential (in $k/\varepsilon$) preprocessing time. Our algorithm relaxes these assumptions, albeit at the cost of a slightly higher misclassification ratio.
-</div>
-</div>
-- [On the Role of Reasoning Patterns in the Generalization Discrepancy of Long Chain-of-Thought Supervised Fine-Tuning](https://arxiv.org/abs/2604.01702). **COLM 2026**. Zhaoyi Li, Xiangyu Xi, Zhengyu Chen, Wei Wang, Gangwei Jiang, **Ranran Shen**, Linqi Song, Ying Wei and Defu Lian.
-
-- [Every Coin Has Two Sides: On the Dual Nature of Generalization in On-Policy Distillation of Large Language Models](https://arxiv.org/abs/2608.16647). **Preprint**. Zhaoyi Li, Deyang Kong, Yuan Wei, Evan Yang, **Ranran Shen**, Mahardika Krisna Ihsani, Ming Yang, Wei Zhang, Chuan Hao, Jian Yang, Ran Tao, Bryan Dai, Shikun Zhang, Wei Ye, Ying Wei, Defu Lian.
+**Every Coin Has Two Sides: On the Dual Nature of Generalization in On-Policy Distillation of Large Language Models** [[arXiv](https://arxiv.org/abs/2608.16647)]
+<span style="color:#666">Zhaoyi Li, Deyang Kong, Yuan Wei, Evan Yang, **Ranran Shen**, Mahardika Krisna Ihsani, Ming Yang, Wei Zhang, Chuan Hao, Jian Yang, Ran Tao, Bryan Dai, Shikun Zhang, Wei Ye, Ying Wei, Defu Lian</span>
+Preprint
 
 
 # 📖 Education
