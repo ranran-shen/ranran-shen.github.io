@@ -33,7 +33,7 @@ My research interests lie broadly in spectral graph theory, sublinear algorithms
 # 📝 Publications 
 
 **Sublinear Spectral Clustering Oracle with Little Memory** [[arXiv](https://arxiv.org/abs/2604.14981)] [[Poster](https://iclr.cc/media/PosterPDFs/ICLR%202026/10011950.png?t=1777654234.6605842)]  
-<span style="color:#666"><b style="color:#000">Ranran Shen</b>, Xiaoyi Zhu, Pan Peng, Zengfeng Huang.</span>  
+<span style="color:#666"><b style="color:#494e52">Ranran Shen</b>, Xiaoyi Zhu, Pan Peng, Zengfeng Huang.</span>  
 ICLR 2026  
 
 **A Sublinear-Time Spectral Clustering Oracle with Improved Preprocessing Time** [[arXiv](https://arxiv.org/abs/2310.17878)] [[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72688.png?t=1701588568.181395)] [[Slides](https://ranran-shen.github.io/docs/NeurIPS2023-slides-full-version.pdf)]  
@@ -41,11 +41,11 @@ ICLR 2026
 NeurIPS 2023  
 
 **On the Role of Reasoning Patterns in the Generalization Discrepancy of Long Chain-of-Thought Supervised Fine-Tuning** [[arXiv](https://arxiv.org/abs/2604.01702)]  
-<span style="color:#666">Zhaoyi Li, Xiangyu Xi, Zhengyu Chen, Wei Wang, Gangwei Jiang, **Ranran Shen**, Linqi Song, Ying Wei and Defu Lian.</span>  
+<span style="color:#666">Zhaoyi Li, Xiangyu Xi, Zhengyu Chen, Wei Wang, Gangwei Jiang, <b style="color:#494e52">Ranran Shen</b>, Linqi Song, Ying Wei and Defu Lian.</span>  
 COLM 2026  
 
 **Every Coin Has Two Sides: On the Dual Nature of Generalization in On-Policy Distillation of Large Language Models** [[arXiv](https://arxiv.org/abs/2608.16647)]  
-<span style="color:#666">Zhaoyi Li, Deyang Kong, Yuan Wei, Evan Yang, **Ranran Shen**, Mahardika Krisna Ihsani, Ming Yang, Wei Zhang, Chuan Hao, Jian Yang, Ran Tao, Bryan Dai, Shikun Zhang, Wei Ye, Ying Wei, Defu Lian.</span>  
+<span style="color:#666">Zhaoyi Li, Deyang Kong, Yuan Wei, Evan Yang, <b style="color:#494e52">Ranran Shen</b>, Mahardika Krisna Ihsani, Ming Yang, Wei Zhang, Chuan Hao, Jian Yang, Ran Tao, Bryan Dai, Shikun Zhang, Wei Ye, Ying Wei, Defu Lian.</span>  
 Preprint 2026  
 
 
