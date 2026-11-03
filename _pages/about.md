@@ -33,8 +33,7 @@ My research interests lie broadly in spectral graph theory, sublinear algorithms
 # 📝 Publications 
 
 **Sublinear Spectral Clustering Oracle with Little Memory** [[arXiv](https://arxiv.org/abs/2604.14981)] [[Poster](https://iclr.cc/media/PosterPDFs/ICLR%202026/10011950.png?t=1777654234.6605842)]  
-<span style="color:#666">**Ranran Shen**, Xiaoyi Zhu, Pan Peng, [Zengfeng Huang](https://zengfenghuang.github.io/)
-.</span>  
+<span style="color:#666">**Ranran Shen**, Xiaoyi Zhu, Pan Peng, Zengfeng Huang.</span>  
 ICLR 2026  
 
 **A Sublinear-Time Spectral Clustering Oracle with Improved Preprocessing Time** [[arXiv](https://arxiv.org/abs/2310.17878)] [[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72688.png?t=1701588568.181395)] [[Slides](https://ranran-shen.github.io/docs/NeurIPS2023-slides-full-version.pdf)]  
