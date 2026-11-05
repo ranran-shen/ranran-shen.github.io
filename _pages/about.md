@@ -32,16 +32,16 @@ My research interests lie broadly in **spectral graph theory** and **sublinear a
 
 # 📝 Publications 
 
-**Testing for a Large Induced Expander: Sublinear Algorithms and Query Lower Bounds** [[arXiv](https://arxiv.org/abs/2611.04766)]  
-<span style="color:#7a8288">[Pan Peng](https://pepy.github.io/), <b style="color:#494e52">Ranran Shen</b>. (<u>Authors listed alphabetically</u>, following the convention in theoretical computer science.)</span>  
+Testing for a Large Induced Expander: Sublinear Algorithms and Query Lower Bounds [[arXiv](https://arxiv.org/abs/2611.04766)]  
+<span style="color:#7a8288">Pan Peng, <span style="color:#494e52">Ranran Shen</span>. (<u>Authors listed alphabetically</u>, following the convention in theoretical computer science.)</span>  
 Preprint 2026  
 
 **Sublinear Spectral Clustering Oracle with Little Memory** [[arXiv](https://arxiv.org/abs/2604.14981)] [[Poster](https://iclr.cc/media/PosterPDFs/ICLR%202026/10011950.png?t=1777654234.6605842)]  
-<span style="color:#7a8288"><b style="color:#494e52">Ranran Shen</b>, Xiaoyi Zhu, [Pan Peng](https://pepy.github.io/), [Zengfeng Huang](https://zengfenghuang.github.io/).</span>  
+<span style="color:#7a8288"><b style="color:#494e52">Ranran Shen</b>, Xiaoyi Zhu, Pan Peng, Zengfeng Huang.</span>  
 ICLR 2026  
 
 **A Sublinear-Time Spectral Clustering Oracle with Improved Preprocessing Time** [[arXiv](https://arxiv.org/abs/2310.17878)] [[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72688.png?t=1701588568.181395)] [[Slides](https://ranran-shen.github.io/docs/NeurIPS2023-slides-full-version.pdf)]  
-<span style="color:#666"><b style="color:#494e52">Ranran Shen</b>, [Pan Peng](https://pepy.github.io/).</span>  
+<span style="color:#666"><b style="color:#494e52">Ranran Shen</b>, Pan Peng.</span>  
 NeurIPS 2023  
 
 **On the Role of Reasoning Patterns in the Generalization Discrepancy of Long Chain-of-Thought Supervised Fine-Tuning** [[arXiv](https://arxiv.org/abs/2604.01702)]  
