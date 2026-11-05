@@ -32,6 +32,10 @@ My research interests lie broadly in spectral graph theory, sublinear algorithms
 
 # 📝 Publications 
 
+**Testing for a Large Induced Expander: Sublinear Algorithms and Query Lower Bounds** [[arXiv](https://arxiv.org/abs/2611.04766)]  
+<span style="color:#666">Pan Peng, <b style="color:#494e52">Ranran Shen</b> (authors listed alphabetically, following the convention in theoretical computer science).</span>  
+Preprint  
+
 **Sublinear Spectral Clustering Oracle with Little Memory** [[arXiv](https://arxiv.org/abs/2604.14981)] [[Poster](https://iclr.cc/media/PosterPDFs/ICLR%202026/10011950.png?t=1777654234.6605842)]  
 <span style="color:#666"><b style="color:#494e52">Ranran Shen</b>, Xiaoyi Zhu, Pan Peng, Zengfeng Huang.</span>  
 ICLR 2026  
