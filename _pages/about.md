@@ -81,6 +81,5 @@ Preprint 2026
 - *2022.06*, Honored as *The Outstanding Bachelor Graduate of CSU* (**Top 15%**).
 - *2021.10*, National Scholarship (Undergraduate, **Top 2%**)🌷.
 - *2019 ~ 2021*, Honored as *The Outstanding Student of School of Computer Science and Engineering, CSU*.
-- *2020 ~ 2021*, First Prize, *CSU Undergraduate Student Academic Scholarship*.
-- *2019.10*, Second Prize, *CSU Undergraduate Student Academic Scholarship*.
+- *2019 ~ 2021*, Second Prize \* 1 and First Prize \* 2, *CSU Undergraduate Student Academic Scholarship*.
 
